@@ -1,0 +1,549 @@
+[main] INFO  testCase.AbstractTest  - Homepage Check
+  [main] INFO  testCase.AbstractTest  - Check Homepage Title
+  [main] INFO  testCase.AbstractTest  - Homepage Done
+  [main] INFO  testCase.AbstractTest  - TEST ENDED
+  [main] INFO  testCase.AbstractTest  - Login Check
+  [main] INFO  testCase.AbstractTest  - Check Login Page
+  [main] INFO  testCase.AbstractTest  - Login Check Done
+  [main] INFO  testCase.AbstractTest  - TEST ENDED
+  [main] INFO  testCase.AbstractTest  - Search Page Check
+  [main] INFO  testCase.AbstractTest  - Check Search Page
+  [main] INFO  testCase.AbstractTest  - Search Page Check Done
+  [main] INFO  testCase.AbstractTest  - TEST ENDED
+  [main] INFO  testCase.AbstractTest  - Cart Page Check
+  [main] INFO  testCase.AbstractTest  - Check Price
+  [main] INFO  testCase.AbstractTest  - Cart Page Check Done
+  [main] INFO  testCase.AbstractTest  - TEST ENDED
+  [main] INFO  testCase.AbstractTest  - Homepage Check
+  [main] INFO  testCase.AbstractTest  - Check Homepage Title
+  [main] INFO  testCase.AbstractTest  - Homepage Done
+  [main] INFO  testCase.AbstractTest  - TEST ENDED
+  [main] INFO  testCase.AbstractTest  - Login Check
+  [main] INFO  testCase.AbstractTest  - Check Login Page
+  [main] INFO  testCase.AbstractTest  - Login Check Done
+  [main] INFO  testCase.AbstractTest  - TEST ENDED
+  [main] INFO  testCase.AbstractTest  - Search Page Check
+  [main] INFO  testCase.AbstractTest  - Check Search Page
+  [main] INFO  testCase.AbstractTest  - Search Page Check Done
+  [main] INFO  testCase.AbstractTest  - TEST ENDED
+  [main] INFO  testCase.AbstractTest  - Cart Page Check
+  [main] INFO  testCase.AbstractTest  - Check Price
+  [main] INFO  testCase.AbstractTest  - Cart Page Check Done
+  [main] INFO  testCase.AbstractTest  - TEST ENDED
+  [main] INFO  testCase.AbstractTest  - Homepage Check
+  [main] INFO  testCase.AbstractTest  - Check Homepage Title
+  [main] INFO  testCase.AbstractTest  - Homepage Done
+  [main] INFO  testCase.AbstractTest  - TEST ENDED
+  [main] INFO  testCase.AbstractTest  - Login Check
+  [main] INFO  testCase.AbstractTest  - Check Login Page
+  [main] INFO  testCase.AbstractTest  - Login Check Done
+  [main] INFO  testCase.AbstractTest  - TEST ENDED
+  [main] INFO  testCase.AbstractTest  - Search Page Check
+  [main] INFO  testCase.AbstractTest  - Check Search Page
+  [main] INFO  testCase.AbstractTest  - Search Page Check Done
+  [main] INFO  testCase.AbstractTest  - TEST ENDED
+  [main] INFO  testCase.AbstractTest  - Cart Page Check
+  [main] INFO  testCase.AbstractTest  - Check Price
+  [main] INFO  testCase.AbstractTest  - Cart Page Check Done
+  [main] INFO  testCase.AbstractTest  - TEST ENDED
+  [main] INFO  testCase.AbstractTest  - Homepage Check
+  [main] INFO  testCase.AbstractTest  - Check Homepage Title
+  [main] INFO  testCase.AbstractTest  - Homepage Done
+  [main] INFO  testCase.AbstractTest  - TEST ENDED
+  [main] INFO  testCase.AbstractTest  - Login Check
+  [main] INFO  testCase.AbstractTest  - Check Login Page
+  [main] INFO  testCase.AbstractTest  - Login Check Done
+  [main] INFO  testCase.AbstractTest  - TEST ENDED
+  [main] INFO  testCase.AbstractTest  - Search Page Check
+  [main] INFO  testCase.AbstractTest  - Check Search Page
+  [main] INFO  testCase.AbstractTest  - Search Page Check Done
+  [main] INFO  testCase.AbstractTest  - TEST ENDED
+  [main] INFO  testCase.AbstractTest  - Cart Page Check
+  [main] INFO  testCase.AbstractTest  - Check Price
+  [main] INFO  testCase.AbstractTest  - Cart Page Check Done
+  [main] INFO  testCase.AbstractTest  - TEST ENDED
+  [main] INFO  testCase.AbstractTest  - Homepage Check
+  [main] INFO  testCase.AbstractTest  - Check Homepage Title
+  [main] INFO  testCase.AbstractTest  - Homepage Done
+  [main] INFO  testCase.AbstractTest  - TEST ENDED
+  [main] INFO  testCase.AbstractTest  - Login Check
+  [main] INFO  testCase.AbstractTest  - Check Login Page
+  [main] INFO  testCase.AbstractTest  - Login Check Done
+  [main] INFO  testCase.AbstractTest  - TEST ENDED
+  [main] INFO  testCase.AbstractTest  - Cart Page Check
+  [main] INFO  testCase.AbstractTest  - Check Price
+  [main] INFO  testCase.AbstractTest  - Cart Page Check Done
+  [main] INFO  testCase.AbstractTest  - TEST ENDED
+  [main] INFO  testCase.AbstractTest  - Homepage Check
+  [main] INFO  testCase.AbstractTest  - Check Homepage Title
+  [main] INFO  testCase.AbstractTest  - Homepage Done
+  [main] INFO  testCase.AbstractTest  - TEST ENDED
+  [main] INFO  testCase.AbstractTest  - Login Check
+  [main] INFO  testCase.AbstractTest  - Check Login Page
+  [main] INFO  testCase.AbstractTest  - Login Check Done
+  [main] INFO  testCase.AbstractTest  - TEST ENDED
+  [main] INFO  testCase.AbstractTest  - Search Page Check
+  [main] INFO  testCase.AbstractTest  - Check Search Page
+  [main] INFO  testCase.AbstractTest  - Search Page Check Done
+  [main] INFO  testCase.AbstractTest  - TEST ENDED
+  [main] INFO  testCase.AbstractTest  - Cart Page Check
+  [main] INFO  testCase.AbstractTest  - Check Price
+  [main] INFO  testCase.AbstractTest  - Cart Page Check Done
+  [main] INFO  testCase.AbstractTest  - TEST ENDED
+  [main] INFO  testCase.AbstractTest  - Homepage Check
+  [main] INFO  testCase.AbstractTest  - Check Homepage Title
+  [main] INFO  testCase.AbstractTest  - Homepage Done
+  [main] INFO  testCase.AbstractTest  - TEST ENDED
+  [main] INFO  testCase.AbstractTest  - Login Check
+  [main] INFO  testCase.AbstractTest  - Check Login Page
+  [main] INFO  testCase.AbstractTest  - Login Check Done
+  [main] INFO  testCase.AbstractTest  - TEST ENDED
+  [main] INFO  testCase.AbstractTest  - Search Page Check
+  [main] INFO  testCase.AbstractTest  - Check Search Page
+  [main] INFO  testCase.AbstractTest  - Search Page Check Done
+  [main] INFO  testCase.AbstractTest  - TEST ENDED
+  [main] INFO  testCase.AbstractTest  - Cart Page Check
+  [main] INFO  testCase.AbstractTest  - Check Price
+  [main] INFO  testCase.AbstractTest  - Cart Page Check Done
+  [main] INFO  testCase.AbstractTest  - TEST ENDED
+  [main] INFO  testCase.AbstractTest  - Homepage Check
+  [main] INFO  testCase.AbstractTest  - Check Homepage Title
+  [main] INFO  testCase.AbstractTest  - Homepage Done
+  [main] INFO  testCase.AbstractTest  - TEST ENDED
+  [main] INFO  testCase.AbstractTest  - Login Check
+  [main] INFO  testCase.AbstractTest  - Check Login Page
+  [main] INFO  testCase.AbstractTest  - Login Check Done
+  [main] INFO  testCase.AbstractTest  - TEST ENDED
+  [main] INFO  testCase.AbstractTest  - Search Page Check
+  [main] INFO  testCase.AbstractTest  - Check Search Page
+  [main] INFO  testCase.AbstractTest  - Search Page Check Done
+  [main] INFO  testCase.AbstractTest  - TEST ENDED
+  [main] INFO  testCase.AbstractTest  - Cart Page Check
+  [main] INFO  testCase.AbstractTest  - Check Price
+  [main] INFO  testCase.AbstractTest  - Cart Page Check Done
+  [main] INFO  testCase.AbstractTest  - TEST ENDED
+  [main] INFO  testCase.AbstractTest  - Homepage Check
+  [main] INFO  testCase.AbstractTest  - Check Homepage Title
+  [main] INFO  testCase.AbstractTest  - Homepage Done
+  [main] INFO  testCase.AbstractTest  - TEST ENDED
+  [main] INFO  testCase.AbstractTest  - Login Check
+  [main] INFO  testCase.AbstractTest  - Check Login Page
+  [main] INFO  testCase.AbstractTest  - Login Check Done
+  [main] INFO  testCase.AbstractTest  - TEST ENDED
+  [main] INFO  testCase.AbstractTest  - Search Page Check
+  [main] INFO  testCase.AbstractTest  - Check Search Page
+  [main] INFO  testCase.AbstractTest  - Search Page Check Done
+  [main] INFO  testCase.AbstractTest  - TEST ENDED
+  [main] INFO  testCase.AbstractTest  - Cart Page Check
+  [main] INFO  testCase.AbstractTest  - Check Price
+  [main] INFO  testCase.AbstractTest  - Cart Page Check Done
+  [main] INFO  testCase.AbstractTest  - TEST ENDED
+  [main] INFO  testCase.AbstractTest  - Homepage Check
+  [main] INFO  testCase.AbstractTest  - Check Homepage Title
+  [main] INFO  testCase.AbstractTest  - Homepage Done
+  [main] INFO  testCase.AbstractTest  - TEST ENDED
+  [main] INFO  testCase.AbstractTest  - Login Check
+  [main] INFO  testCase.AbstractTest  - Check Login Page
+  [main] INFO  testCase.AbstractTest  - Login Check Done
+  [main] INFO  testCase.AbstractTest  - TEST ENDED
+  [main] INFO  testCase.AbstractTest  - Search Page Check
+  [main] INFO  testCase.AbstractTest  - Check Search Page
+  [main] INFO  testCase.AbstractTest  - Search Page Check Done
+  [main] INFO  testCase.AbstractTest  - TEST ENDED
+  [main] INFO  testCase.AbstractTest  - Cart Page Check
+  [main] INFO  testCase.AbstractTest  - Check Price
+  [main] INFO  testCase.AbstractTest  - Cart Page Check Done
+  [main] INFO  testCase.AbstractTest  - TEST ENDED
+  [main] INFO  testCase.AbstractTest  - Homepage Check
+  [main] INFO  testCase.AbstractTest  - Check Homepage Title
+  [main] INFO  testCase.AbstractTest  - Homepage Done
+  [main] INFO  testCase.AbstractTest  - TEST ENDED
+  [main] INFO  testCase.AbstractTest  - Login Check
+  [main] INFO  testCase.AbstractTest  - Check Login Page
+  [main] INFO  testCase.AbstractTest  - Login Check Done
+  [main] INFO  testCase.AbstractTest  - TEST ENDED
+  [main] INFO  testCase.AbstractTest  - Search Page Check
+  [main] INFO  testCase.AbstractTest  - Check Search Page
+  [main] INFO  testCase.AbstractTest  - Search Page Check Done
+  [main] INFO  testCase.AbstractTest  - TEST ENDED
+  [main] INFO  testCase.AbstractTest  - Cart Page Check
+  [main] INFO  testCase.AbstractTest  - Check Price
+  [main] INFO  testCase.AbstractTest  - Cart Page Check Done
+  [main] INFO  testCase.AbstractTest  - TEST ENDED
+  [main] INFO  testCase.AbstractTest  - Homepage Check
+  [main] INFO  testCase.AbstractTest  - Check Homepage Title
+  [main] INFO  testCase.AbstractTest  - Homepage Done
+  [main] INFO  testCase.AbstractTest  - TEST ENDED
+  [main] INFO  testCase.AbstractTest  - Login Check
+  [main] INFO  testCase.AbstractTest  - Check Login Page
+  [main] INFO  testCase.AbstractTest  - Login Check Done
+  [main] INFO  testCase.AbstractTest  - TEST ENDED
+  [main] INFO  testCase.AbstractTest  - Search Page Check
+  [main] INFO  testCase.AbstractTest  - Check Search Page
+  [main] INFO  testCase.AbstractTest  - Search Page Check Done
+  [main] INFO  testCase.AbstractTest  - TEST ENDED
+  [main] INFO  testCase.AbstractTest  - Cart Page Check
+  [main] INFO  testCase.AbstractTest  - Check Price
+  [main] INFO  testCase.AbstractTest  - Cart Page Check Done
+  [main] INFO  testCase.AbstractTest  - TEST ENDED
+  [main] INFO  testCase.AbstractTest  - Homepage Check
+  [main] INFO  testCase.AbstractTest  - Check Homepage Title
+  [main] INFO  testCase.AbstractTest  - Homepage Done
+  [main] INFO  testCase.AbstractTest  - TEST ENDED
+  [main] INFO  testCase.AbstractTest  - Login Check
+  [main] INFO  testCase.AbstractTest  - Check Login Page
+  [main] INFO  testCase.AbstractTest  - Login Check Done
+  [main] INFO  testCase.AbstractTest  - TEST ENDED
+  [main] INFO  testCase.AbstractTest  - Search Page Check
+  [main] INFO  testCase.AbstractTest  - Check Search Page
+  [main] INFO  testCase.AbstractTest  - Search Page Check Done
+  [main] INFO  testCase.AbstractTest  - TEST ENDED
+  [main] INFO  testCase.AbstractTest  - Cart Page Check
+  [main] INFO  testCase.AbstractTest  - Check Price
+  [main] INFO  testCase.AbstractTest  - Cart Page Check Done
+  [main] INFO  testCase.AbstractTest  - TEST ENDED
+  [main] INFO  testCase.AbstractTest  - Homepage Check
+  [main] INFO  testCase.AbstractTest  - Check Homepage Title
+  [main] INFO  testCase.AbstractTest  - Homepage Done
+  [main] INFO  testCase.AbstractTest  - TEST ENDED
+  [main] INFO  testCase.AbstractTest  - Login Check
+  [main] INFO  testCase.AbstractTest  - Check Login Page
+  [main] INFO  testCase.AbstractTest  - Login Check Done
+  [main] INFO  testCase.AbstractTest  - TEST ENDED
+  [main] INFO  testCase.AbstractTest  - Search Page Check
+  [main] INFO  testCase.AbstractTest  - Check Search Page
+  [main] INFO  testCase.AbstractTest  - Search Page Check Done
+  [main] INFO  testCase.AbstractTest  - TEST ENDED
+  [main] INFO  testCase.AbstractTest  - Cart Page Check
+  [main] INFO  testCase.AbstractTest  - Check Price
+  [main] INFO  testCase.AbstractTest  - Cart Page Check Done
+  [main] INFO  testCase.AbstractTest  - TEST ENDED
+  [main] INFO  testCase.AbstractTest  - Homepage Check
+  [main] INFO  testCase.AbstractTest  - Check Homepage Title
+  [main] INFO  testCase.AbstractTest  - Homepage Done
+  [main] INFO  testCase.AbstractTest  - TEST ENDED
+  [main] INFO  testCase.AbstractTest  - Login Check
+  [main] INFO  testCase.AbstractTest  - Check Login Page
+  [main] INFO  testCase.AbstractTest  - Login Check Done
+  [main] INFO  testCase.AbstractTest  - TEST ENDED
+  [main] INFO  testCase.AbstractTest  - Search Page Check
+  [main] INFO  testCase.AbstractTest  - Check Search Page
+  [main] INFO  testCase.AbstractTest  - Search Page Check Done
+  [main] INFO  testCase.AbstractTest  - TEST ENDED
+  [main] INFO  testCase.AbstractTest  - Cart Page Check
+  [main] INFO  testCase.AbstractTest  - Check Price
+  [main] INFO  testCase.AbstractTest  - Cart Page Check Done
+  [main] INFO  testCase.AbstractTest  - TEST ENDED
+  [main] INFO  testCase.AbstractTest  - Homepage Check
+  [main] INFO  testCase.AbstractTest  - Check Homepage Title
+  [main] INFO  testCase.AbstractTest  - Homepage Done
+  [main] INFO  testCase.AbstractTest  - TEST ENDED
+  [main] INFO  testCase.AbstractTest  - Login Check Done
+  [main] INFO  testCase.AbstractTest  - TEST ENDED
+  [main] INFO  testCase.AbstractTest  - Search Page Check Done
+  [main] INFO  testCase.AbstractTest  - TEST ENDED
+  [main] INFO  testCase.AbstractTest  - Cart Page Check Done
+  [main] INFO  testCase.AbstractTest  - TEST ENDED
+  [main] INFO  testCase.AbstractTest  - Cart Page Check Done
+  [main] INFO  testCase.AbstractTest  - TEST ENDED
+  [main] INFO  testCase.AbstractTest  - Cart Page Check Done
+  [main] INFO  testCase.AbstractTest  - TEST ENDED
+  [main] INFO  testCase.AbstractTest  - Homepage Check
+  [main] INFO  testCase.AbstractTest  - Check Homepage Title
+  [main] INFO  testCase.AbstractTest  - Homepage Done
+  [main] INFO  testCase.AbstractTest  - TEST ENDED
+  [main] INFO  testCase.AbstractTest  - Login Check Done
+  [main] INFO  testCase.AbstractTest  - TEST ENDED
+  [main] INFO  testCase.AbstractTest  - Search Page Check Done
+  [main] INFO  testCase.AbstractTest  - TEST ENDED
+  [main] INFO  testCase.AbstractTest  - Cart Page Check Done
+  [main] INFO  testCase.AbstractTest  - TEST ENDED
+  [main] INFO  testCase.AbstractTest  - Cart Page Check Done
+  [main] INFO  testCase.AbstractTest  - TEST ENDED
+  [main] INFO  testCase.AbstractTest  - Cart Page Check Done
+  [main] INFO  testCase.AbstractTest  - TEST ENDED
+  [main] INFO  testCase.AbstractTest  - Homepage Check
+  [main] INFO  testCase.AbstractTest  - Check Homepage Title
+  [main] INFO  testCase.AbstractTest  - Homepage Done
+  [main] INFO  testCase.AbstractTest  - TEST ENDED
+  [main] INFO  testCase.AbstractTest  - Login Check Done
+  [main] INFO  testCase.AbstractTest  - TEST ENDED
+  [main] INFO  testCase.AbstractTest  - Search Page Check Done
+  [main] INFO  testCase.AbstractTest  - TEST ENDED
+  [main] INFO  testCase.AbstractTest  - Cart Page Check Done
+  [main] INFO  testCase.AbstractTest  - TEST ENDED
+  [main] INFO  testCase.AbstractTest  - Cart Page Check Done
+  [main] INFO  testCase.AbstractTest  - TEST ENDED
+  [main] INFO  testCase.AbstractTest  - Homepage Check
+  [main] INFO  testCase.AbstractTest  - Check Homepage Title
+  [main] INFO  testCase.AbstractTest  - Homepage Done
+  [main] INFO  testCase.AbstractTest  - TEST ENDED
+  [main] INFO  testCase.AbstractTest  - Login Check Done
+  [main] INFO  testCase.AbstractTest  - TEST ENDED
+  [main] INFO  testCase.AbstractTest  - Search Page Check Done
+  [main] INFO  testCase.AbstractTest  - TEST ENDED
+  [main] INFO  testCase.AbstractTest  - Cart Page Check Done
+  [main] INFO  testCase.AbstractTest  - TEST ENDED
+  [main] INFO  testCase.AbstractTest  - Cart Page Check Done
+  [main] INFO  testCase.AbstractTest  - TEST ENDED
+  [main] INFO  testCase.AbstractTest  - Homepage Check
+  [main] INFO  testCase.AbstractTest  - Check Homepage Title
+  [main] INFO  testCase.AbstractTest  - Homepage Done
+  [main] INFO  testCase.AbstractTest  - TEST ENDED
+  [main] INFO  testCase.AbstractTest  - Login Check Done
+  [main] INFO  testCase.AbstractTest  - TEST ENDED
+  [main] INFO  testCase.AbstractTest  - Search Page Check Done
+  [main] INFO  testCase.AbstractTest  - TEST ENDED
+  [main] INFO  testCase.AbstractTest  - Cart Page Check Done
+  [main] INFO  testCase.AbstractTest  - TEST ENDED
+  [main] INFO  testCase.AbstractTest  - Cart Page Check Done
+  [main] INFO  testCase.AbstractTest  - TEST ENDED
+  [main] INFO  testCase.AbstractTest  - Homepage Check
+  [main] INFO  testCase.AbstractTest  - Check Homepage Title
+  [main] INFO  testCase.AbstractTest  - Homepage Done
+  [main] INFO  testCase.AbstractTest  - TEST ENDED
+  [main] INFO  testCase.AbstractTest  - Login Check Done
+  [main] INFO  testCase.AbstractTest  - TEST ENDED
+  [main] INFO  testCase.AbstractTest  - Search Page Check Done
+  [main] INFO  testCase.AbstractTest  - TEST ENDED
+  [main] INFO  testCase.AbstractTest  - Cart Page Check Done
+  [main] INFO  testCase.AbstractTest  - TEST ENDED
+  [main] INFO  testCase.AbstractTest  - Homepage Check
+  [main] INFO  testCase.AbstractTest  - Check Homepage Title
+  [main] INFO  testCase.AbstractTest  - Homepage Done
+  [main] INFO  testCase.AbstractTest  - TEST ENDED
+  [main] INFO  testCase.AbstractTest  - Login Check
+  [main] INFO  testCase.AbstractTest  - Check Login Page
+  [main] INFO  testCase.AbstractTest  - Login Check Done
+  [main] INFO  testCase.AbstractTest  - TEST ENDED
+  [main] INFO  testCase.AbstractTest  - Search Page Check
+  [main] INFO  testCase.AbstractTest  - Check Search Page
+  [main] INFO  testCase.AbstractTest  - Search Page Check Done
+  [main] INFO  testCase.AbstractTest  - TEST ENDED
+  [main] INFO  testCase.AbstractTest  - Cart Page Check
+  [main] INFO  testCase.AbstractTest  - Check Price
+  [main] INFO  testCase.AbstractTest  - Cart Page Check Done
+  [main] INFO  testCase.AbstractTest  - TEST ENDED
+  [main] INFO  testCase.AbstractTest  - Homepage Check
+  [main] INFO  testCase.AbstractTest  - Check Homepage Title
+  [main] INFO  testCase.AbstractTest  - Homepage Done
+  [main] INFO  testCase.AbstractTest  - TEST ENDED
+  [main] INFO  testCase.AbstractTest  - Login Check
+  [main] INFO  testCase.AbstractTest  - Check Login Page
+  [main] INFO  testCase.AbstractTest  - Login Check Done
+  [main] INFO  testCase.AbstractTest  - TEST ENDED
+  [main] INFO  testCase.AbstractTest  - Search Page Check
+  [main] INFO  testCase.AbstractTest  - Check Search Page
+  [main] INFO  testCase.AbstractTest  - Search Page Check Done
+  [main] INFO  testCase.AbstractTest  - TEST ENDED
+  [main] INFO  testCase.AbstractTest  - Cart Page Check
+  [main] INFO  testCase.AbstractTest  - Check Price
+  [main] INFO  testCase.AbstractTest  - Cart Page Check Done
+  [main] INFO  testCase.AbstractTest  - TEST ENDED
+  [main] INFO  testCase.AbstractTest  - Homepage Check
+  [main] INFO  testCase.AbstractTest  - Check Homepage Title
+  [main] INFO  testCase.AbstractTest  - Homepage Done
+  [main] INFO  testCase.AbstractTest  - TEST ENDED
+  [main] INFO  testCase.AbstractTest  - Login Check
+  [main] INFO  testCase.AbstractTest  - Check Login Page
+  [main] INFO  testCase.AbstractTest  - Login Check Done
+  [main] INFO  testCase.AbstractTest  - TEST ENDED
+  [main] INFO  testCase.AbstractTest  - Search Page Check
+  [main] INFO  testCase.AbstractTest  - Check Search Page
+  [main] INFO  testCase.AbstractTest  - Search Page Check Done
+  [main] INFO  testCase.AbstractTest  - TEST ENDED
+  [main] INFO  testCase.AbstractTest  - Cart Page Check
+  [main] INFO  testCase.AbstractTest  - Check Price
+  [main] INFO  testCase.AbstractTest  - Cart Page Check Done
+  [main] INFO  testCase.AbstractTest  - TEST ENDED
+  [main] INFO  testCase.AbstractTest  - Homepage Check
+  [main] INFO  testCase.AbstractTest  - Check Homepage Title
+  [main] INFO  testCase.AbstractTest  - Homepage Done
+  [main] INFO  testCase.AbstractTest  - TEST ENDED
+  [main] INFO  testCase.AbstractTest  - Login Check
+  [main] INFO  testCase.AbstractTest  - Check Login Page
+  [main] INFO  testCase.AbstractTest  - Login Check Done
+  [main] INFO  testCase.AbstractTest  - TEST ENDED
+  [main] INFO  testCase.AbstractTest  - Search Page Check
+  [main] INFO  testCase.AbstractTest  - Check Search Page
+  [main] INFO  testCase.AbstractTest  - Search Page Check Done
+  [main] INFO  testCase.AbstractTest  - TEST ENDED
+  [main] INFO  testCase.AbstractTest  - Cart Page Check
+  [main] INFO  testCase.AbstractTest  - Check Price
+  [main] INFO  testCase.AbstractTest  - Cart Page Check Done
+  [main] INFO  testCase.AbstractTest  - TEST ENDED
+  [main] INFO  testCase.AbstractTest  - Homepage Check
+  [main] INFO  testCase.AbstractTest  - Check Homepage Title
+  [main] INFO  testCase.AbstractTest  - Homepage Done
+  [main] INFO  testCase.AbstractTest  - TEST ENDED
+  [main] INFO  testCase.AbstractTest  - Login Check
+  [main] INFO  testCase.AbstractTest  - Check Login Page
+  [main] INFO  testCase.AbstractTest  - Login Check Done
+  [main] INFO  testCase.AbstractTest  - TEST ENDED
+  [main] INFO  testCase.AbstractTest  - Search Page Check
+  [main] INFO  testCase.AbstractTest  - Check Search Page
+  [main] INFO  testCase.AbstractTest  - Search Page Check Done
+  [main] INFO  testCase.AbstractTest  - TEST ENDED
+  [main] INFO  testCase.AbstractTest  - Cart Page Check
+  [main] INFO  testCase.AbstractTest  - Check Price
+  [main] INFO  testCase.AbstractTest  - Cart Page Check Done
+  [main] INFO  testCase.AbstractTest  - TEST ENDED
+  [main] INFO  testCase.AbstractTest  - Homepage Check
+  [main] INFO  testCase.AbstractTest  - Check Homepage Title
+  [main] INFO  testCase.AbstractTest  - Homepage Done
+  [main] INFO  testCase.AbstractTest  - TEST ENDED
+  [main] INFO  testCase.AbstractTest  - Login Check
+  [main] INFO  testCase.AbstractTest  - Check Login Page
+  [main] INFO  testCase.AbstractTest  - Login Check Done
+  [main] INFO  testCase.AbstractTest  - TEST ENDED
+  [main] INFO  testCase.AbstractTest  - Search Page Check
+  [main] INFO  testCase.AbstractTest  - Check Search Page
+  [main] INFO  testCase.AbstractTest  - Search Page Check Done
+  [main] INFO  testCase.AbstractTest  - TEST ENDED
+  [main] INFO  testCase.AbstractTest  - Cart Page Check
+  [main] INFO  testCase.AbstractTest  - Check Price
+  [main] INFO  testCase.AbstractTest  - Cart Page Check Done
+  [main] INFO  testCase.AbstractTest  - TEST ENDED
+  [main] INFO  testCase.AbstractTest  - Homepage Check
+  [main] INFO  testCase.AbstractTest  - Check Homepage Title
+  [main] INFO  testCase.AbstractTest  - Homepage Done
+  [main] INFO  testCase.AbstractTest  - TEST ENDED
+  [main] INFO  testCase.AbstractTest  - Login Check
+  [main] INFO  testCase.AbstractTest  - Check Login Page
+  [main] INFO  testCase.AbstractTest  - Login Check Done
+  [main] INFO  testCase.AbstractTest  - TEST ENDED
+  [main] INFO  testCase.AbstractTest  - Search Page Check
+  [main] INFO  testCase.AbstractTest  - Check Search Page
+  [main] INFO  testCase.AbstractTest  - Search Page Check Done
+  [main] INFO  testCase.AbstractTest  - TEST ENDED
+  [main] INFO  testCase.AbstractTest  - Cart Page Check
+  [main] INFO  testCase.AbstractTest  - Check Price
+  [main] INFO  testCase.AbstractTest  - Cart Page Check Done
+  [main] INFO  testCase.AbstractTest  - TEST ENDED
+  [main] INFO  testCase.AbstractTest  - Homepage Check
+  [main] INFO  testCase.AbstractTest  - Check Homepage Title
+  [main] INFO  testCase.AbstractTest  - Homepage Done
+  [main] INFO  testCase.AbstractTest  - TEST ENDED
+  [main] INFO  testCase.AbstractTest  - Login Check Done
+  [main] INFO  testCase.AbstractTest  - TEST ENDED
+  [main] INFO  testCase.AbstractTest  - Search Page Check Done
+  [main] INFO  testCase.AbstractTest  - TEST ENDED
+  [main] INFO  testCase.AbstractTest  - Cart Page Check Done
+  [main] INFO  testCase.AbstractTest  - TEST ENDED
+  [main] INFO  testCase.AbstractTest  - Homepage Check
+  [main] INFO  testCase.AbstractTest  - Check Homepage Title
+  [main] INFO  testCase.AbstractTest  - Homepage Done
+  [main] INFO  testCase.AbstractTest  - TEST ENDED
+  [main] INFO  testCase.AbstractTest  - Login Check
+  [main] INFO  testCase.AbstractTest  - Check Login Page
+  [main] INFO  testCase.AbstractTest  - Login Check Done
+  [main] INFO  testCase.AbstractTest  - TEST ENDED
+  [main] INFO  testCase.AbstractTest  - Search Page Check
+  [main] INFO  testCase.AbstractTest  - Check Search Page
+  [main] INFO  testCase.AbstractTest  - Search Page Check Done
+  [main] INFO  testCase.AbstractTest  - TEST ENDED
+  [main] INFO  testCase.AbstractTest  - Cart Page Check
+  [main] INFO  testCase.AbstractTest  - Check Price
+  [main] INFO  testCase.AbstractTest  - Homepage Check
+  [main] INFO  testCase.AbstractTest  - Check Homepage Title
+  [main] INFO  testCase.AbstractTest  - Homepage Done
+  [main] INFO  testCase.AbstractTest  - TEST ENDED
+  [main] INFO  testCase.AbstractTest  - Login Check
+  [main] INFO  testCase.AbstractTest  - Check Login Page
+  [main] INFO  testCase.AbstractTest  - Login Check Done
+  [main] INFO  testCase.AbstractTest  - TEST ENDED
+  [main] INFO  testCase.AbstractTest  - Search Page Check
+  [main] INFO  testCase.AbstractTest  - Check Search Page
+  [main] INFO  testCase.AbstractTest  - Search Page Check Done
+  [main] INFO  testCase.AbstractTest  - TEST ENDED
+  [main] INFO  testCase.AbstractTest  - Cart Page Check
+  [main] INFO  testCase.AbstractTest  - Check Price
+  [main] INFO  testCase.AbstractTest  - Cart Page Check Done
+  [main] INFO  testCase.AbstractTest  - TEST ENDED
+  [main] INFO  testCase.AbstractTest  - Homepage Check
+  [main] INFO  testCase.AbstractTest  - Check Homepage Title
+  [main] INFO  testCase.AbstractTest  - Homepage Done
+  [main] INFO  testCase.AbstractTest  - TEST ENDED
+  [main] INFO  testCase.AbstractTest  - Login Check
+  [main] INFO  testCase.AbstractTest  - Check Login Page
+  [main] INFO  testCase.AbstractTest  - Login Check Done
+  [main] INFO  testCase.AbstractTest  - TEST ENDED
+  [main] INFO  testCase.AbstractTest  - Search Page Check
+  [main] INFO  testCase.AbstractTest  - Check Search Page
+  [main] INFO  testCase.AbstractTest  - Search Page Check Done
+  [main] INFO  testCase.AbstractTest  - TEST ENDED
+  [main] INFO  testCase.AbstractTest  - Cart Page Check
+  [main] INFO  testCase.AbstractTest  - Check Price
+  [main] INFO  testCase.AbstractTest  - Cart Page Check Done
+  [main] INFO  testCase.AbstractTest  - TEST ENDED
+  [main] INFO  testCase.AbstractTest  - Homepage Check
+  [main] INFO  testCase.AbstractTest  - Check Homepage Title
+  [main] INFO  testCase.AbstractTest  - Homepage Done
+  [main] INFO  testCase.AbstractTest  - TEST ENDED
+  [main] INFO  testCase.AbstractTest  - Login Check
+  [main] INFO  testCase.AbstractTest  - Check Login Page
+  [main] INFO  testCase.AbstractTest  - Login Check Done
+  [main] INFO  testCase.AbstractTest  - TEST ENDED
+  [main] INFO  testCase.AbstractTest  - Search Page Check
+  [main] INFO  testCase.AbstractTest  - Check Search Page
+  [main] INFO  testCase.AbstractTest  - Search Page Check Done
+  [main] INFO  testCase.AbstractTest  - TEST ENDED
+  [main] INFO  testCase.AbstractTest  - Cart Page Check
+  [main] INFO  testCase.AbstractTest  - Check Price
+  [main] INFO  testCase.AbstractTest  - Cart Page Check Done
+  [main] INFO  testCase.AbstractTest  - TEST ENDED
+  [main] INFO  testCase.AbstractTest  - Homepage Check
+  [main] INFO  testCase.AbstractTest  - Check Homepage Title
+  [main] INFO  testCase.AbstractTest  - Homepage Done
+  [main] INFO  testCase.AbstractTest  - TEST ENDED
+  [main] INFO  testCase.AbstractTest  - Login Check
+  [main] INFO  testCase.AbstractTest  - Check Login Page
+  [main] INFO  testCase.AbstractTest  - Homepage Check
+  [main] INFO  testCase.AbstractTest  - Check Homepage Title
+  [main] INFO  testCase.AbstractTest  - Homepage Done
+  [main] INFO  testCase.AbstractTest  - TEST ENDED
+  [main] INFO  testCase.AbstractTest  - Login Check
+  [main] INFO  testCase.AbstractTest  - Check Login Page
+  [main] INFO  testCase.AbstractTest  - Login Check Done
+  [main] INFO  testCase.AbstractTest  - TEST ENDED
+  [main] INFO  testCase.AbstractTest  - Search Page Check
+  [main] INFO  testCase.AbstractTest  - Check Search Page
+  [main] INFO  testCase.AbstractTest  - Search Page Check Done
+  [main] INFO  testCase.AbstractTest  - TEST ENDED
+  [main] INFO  testCase.AbstractTest  - Cart Page Check
+  [main] INFO  testCase.AbstractTest  - Check Price
+  [main] INFO  testCase.AbstractTest  - Cart Page Check Done
+  [main] INFO  testCase.AbstractTest  - TEST ENDED
+  [main] INFO  testCase.AbstractTest  - Homepage Check
+  [main] INFO  testCase.AbstractTest  - Check Homepage Title
+  [main] INFO  testCase.AbstractTest  - Homepage Done
+  [main] INFO  testCase.AbstractTest  - TEST ENDED
+  [main] INFO  testCase.AbstractTest  - Login Check
+  [main] INFO  testCase.AbstractTest  - Check Login Page
+  [main] INFO  testCase.AbstractTest  - Login Check Done
+  [main] INFO  testCase.AbstractTest  - TEST ENDED
+  [main] INFO  testCase.AbstractTest  - Search Page Check
+  [main] INFO  testCase.AbstractTest  - Check Search Page
+  [main] INFO  testCase.AbstractTest  - Search Page Check Done
+  [main] INFO  testCase.AbstractTest  - TEST ENDED
+  [main] INFO  testCase.AbstractTest  - Cart Page Check
+  [main] INFO  testCase.AbstractTest  - Check Price
+  [main] INFO  testCase.AbstractTest  - Cart Page Check Done
+  [main] INFO  testCase.AbstractTest  - TEST ENDED
+  [main] INFO  testCase.AbstractTest  - Homepage Check
+  [main] INFO  testCase.AbstractTest  - Check Homepage Title
+  [main] INFO  testCase.AbstractTest  - Homepage Done
+  [main] INFO  testCase.AbstractTest  - TEST ENDED
+  [main] INFO  testCase.AbstractTest  - Login Check
+  [main] INFO  testCase.AbstractTest  - Check Login Page
+  [main] INFO  testCase.AbstractTest  - Login Check Done
+  [main] INFO  testCase.AbstractTest  - TEST ENDED
+  [main] INFO  testCase.AbstractTest  - Search Page Check
+  [main] INFO  testCase.AbstractTest  - Check Search Page
+  [main] INFO  testCase.AbstractTest  - Search Page Check Done
+  [main] INFO  testCase.AbstractTest  - TEST ENDED
+  [main] INFO  testCase.AbstractTest  - Cart Page Check
+  [main] INFO  testCase.AbstractTest  - Check Price
+  [main] INFO  testCase.AbstractTest  - Cart Page Check Done
+  [main] INFO  testCase.AbstractTest  - TEST ENDED
+  
